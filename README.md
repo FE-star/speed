@@ -12,4 +12,5 @@
 ### 目录
 
 * [2018.13][关于 prefetching 的所有事](./2018.13.md) [@kangschampagne](https://github.com/kangschampagne)
+* [2018.11][基于浏览器、网络连接和设备存储来动态调整资源](./2018.11.md) [@AlexShan2008](https://github.com/AlexShan2008)
 * ...你的内容
