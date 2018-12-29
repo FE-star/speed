@@ -13,4 +13,5 @@
 
 * [2018.13][关于 prefetching 的所有事](./2018.13.md) [@kangschampagne](https://github.com/kangschampagne)
 * [2018.06][HTTP/2的优先级](./2018.06.md) [@smallbonelu](https://github.com/smallbonelu)
+* [2018.24][网络性能入门：2019年初学者指南](./2018.24.md) [@smallbonelu](https://github.com/smallbonelu)
 * ...你的内容
