@@ -20,6 +20,6 @@
 * [2018.15][符合CSP安全策略的非阻塞式javascript加载器实践](./2018.15.md) [@josephmax](https://github.com/josephmax)
 * [2018.24][网络性能入门：2019年初学者指南](./2018.24.md) [@smallbonelu](https://github.com/smallbonelu)
 * [2018.28][2019差异化服务](./2018.28.md) [@smallbonelu](https://github.com/smallbonelu)
-* [2021.7][优化 React 应用中的状态管理](./2021.07.md) [@shenxiang11](https://github.com/shenxiang11)
+* [2021.07][优化 React 应用中的状态管理](./2021.07.md) [@shenxiang11](https://github.com/shenxiang11)
 * ...你的内容
 
